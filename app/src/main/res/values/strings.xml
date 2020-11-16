@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Masak Apa</string>
+    <string name="search_category">Search Category</string>
+    <string name="image_description">Image</string>
+    <string name="text_primary">Sample of title text</string>
+    <string name="text_subtitle">Sample of subtitle text</string>
+    <string name="search_meals">Search Meals</string>
+    <string name="sort_by_ascending">Sort by Ascending</string>
+    <string name="sort_by_descending">Sort by Descending</string>
+
+    <string name="title_ingredient">Ingredients</string>
+    <string name="title_instructions">Instructions</string>
+    <string name="title_source">Source: </string>
+    <string name="author">Made by Laksamana Akbar Dzulfikar</string>
+    <string name="masak_apa">Masak Apa?</string>
+    <string name="search_by_category">Search by Category Name</string>
+    <string name="search_by_meal_name">Search by Meal Name</string>
+</resources>
